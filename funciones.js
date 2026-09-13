@@ -125,4 +125,4 @@ module.exports = {
     obtenerReprobados, calcularPromedioGeneral, obtenerMejorEstudiante,
     obtenerPeorEstudiante, contarPorCarrera, buscarPorSemestre,
     obtenerMayoresDeEdad, generarReporte, obtenerRanking
-};
+}
